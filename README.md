@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🤖+AI+%26+Automation+Enthusiast;🔥+Hackathon+Builder;💡+Problem+Solver;⚡+Building+Impactful+Tech+Solutions" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Welcome%20To%20My%20GitHub%20Profile&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Welcome%20To%20My%20GitHub&fontAlign=50&fontAlignY=35&fontSize=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ADITYA990-IND&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
