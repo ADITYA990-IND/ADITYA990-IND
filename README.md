@@ -1,6 +1,6 @@
 # 🚀 Premium GitHub Profile README for Aditya
 
-```markdown
+
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">🚀 Developer | AI Enthusiast | Problem Solver | Creative Tech Creator</h3>
 
@@ -94,20 +94,5 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer" />
-</p>
-```
+</p> 
 
----
-
-# 📌 How to Use
-
-1. Create a repository with the exact same name as your GitHub username:
-   `ADITYA990-IND`
-
-2. Create or edit `README.md`
-
-3. Copy everything from the markdown block above and paste it into your README.
-
-4. Replace your LinkedIn URL in the Connect section.
-
-5. Commit changes — your premium profile will appear automatically on your GitHub profile.
