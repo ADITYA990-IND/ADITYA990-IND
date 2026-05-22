@@ -2,13 +2,15 @@
 
 # ⚡ ADITYA RAJ CHOURASIYA ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🤖+AI+%26+Automation+Enthusiast;🔥+Hackathon+Builder;💡+Problem+Solver;⚡+Building+Impactful+Tech+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=🚀+Full+Stack+Developer;🤖+AI+Enthusiast;🔥+Hackathon+Builder;💡+Problem+Solver" />
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Welcome%20To%20My%20GitHub&fontAlign=50&fontAlignY=35&fontSize=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ADITYA990-IND&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ADITYA990-IND&style=flat-square&color=blue" />
 
 </div>
 
