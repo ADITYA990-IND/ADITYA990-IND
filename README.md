@@ -94,30 +94,31 @@
 <div align="center">
 
 ### 🔥 DSA Progress & Metrics
-* **✅ Solved:** 56+ Problems *(Easy: 22 | Medium: 28 | Hard: 6)*
-* **⚡ Max Streak:** 35 Days Continuous Learning
+* **✅ Solved:** 61 Problems *(Easy: 24 | Medium: 30 | Hard: 7)*
+* **⚡ Max Streak:** 40 Days Continuous Learning
+* **📅 Total Active Days:** 51 Days
 * **📈 Focus:** Daily DSA & Competitive Programming Practice
 
-</div>
+### 🏅 Badges
+* **🏆 Most Recent:** 50 Days Badge 2026
 
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 
 ## 📊 GitHub Analytics & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ADITYA990-IND&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=ADITYA990-IND&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+<br><br>
+
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com?user=ADITYA990-IND&theme=tokyonight&hide_border=true&background=0D1117" width="480px" alt="GitHub Streak" />
+
 </div>
-
-<br>
-
-<p align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=ADITYA990-IND&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</p>
-
-<br>
-
-<div align="center">
   <ins><h3>📈 Contribution Activity</h3></ins>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYA990-IND&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
