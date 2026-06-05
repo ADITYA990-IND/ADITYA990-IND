@@ -116,8 +116,7 @@
 <br><br>
 
 ### 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com?user=ADITYA990-IND&theme=tokyonight&hide_border=true&background=0D1117" width="480px" alt="GitHub Streak" />
-
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ADITYA990-IND&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   <ins><h3>📈 Contribution Activity</h3></ins>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYA990-IND&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
