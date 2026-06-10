@@ -115,7 +115,7 @@
 
 <br><br>
 
-### 🔥 Contribution Streak & 🔥 My GitHub Streak
+### 🔥 Contribution Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADITYA990-IND&theme=radical&hide_border=true)](https://git.io/streak-stats)
 </div>
@@ -132,6 +132,8 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+
 
 ## 🌐 Connect With Me
 
