@@ -115,8 +115,8 @@
 
 <br><br>
 
-### 🔥 Contribution Streak
-### 🔥 My GitHub Streak
+### 🔥 Contribution Streak & 🔥 My GitHub Streak
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)
 </div>
   <ins><h3>📈 Contribution Activity</h3></ins>
