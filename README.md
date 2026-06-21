@@ -61,7 +61,11 @@
 | 🛡️ **Guard IQ** | AI-powered road safety & smart driving assistant with ADAS features | React, Gemini AI, Firebase |
 | 🩺 **Arogya Mitra AI** | Smart healthcare accessibility assistant powered by AI | Python, Streamlit, AI |
 | 🌾 **AgriVision** | Intelligent agriculture solution for modern farming insights | AI, Web App |
-| 🚑 **Quick Rescue** *(Ongoing)* | Emergency response & rescue management platform | Full Stack |
+| 🚑 **Quick Rescue** | Emergency response & rescue management platform | Full Stack |
+| ⏱️ **ChronoTrack** | Chrome extension for real-time time tracking and detailed productivity analytics | JavaScript, HTML, CSS, Chrome API |
+| 📄 **SyncDoc** | Real-time collaborative document editor supporting seamless multi-user editing | React, Node.js, WebSockets |
+| 💬 **Talkive** | Real-time chat application with instant messaging and dynamic UI | Node.js, Express, Socket.io |
+| ⚙️ **API Gateway Hub** | Backend API integration system for unified data fetching and routing | Node.js, Express, REST APIs |
 | 🎵 **Music Player** | Interactive JavaScript music player with modern UI | HTML, CSS, JavaScript |
 | 🧮 **Build A Calculator** | Responsive calculator application with clean design | HTML, CSS, JavaScript |
 | 📊 **Twitter Sentiment Analysis** | Machine Learning-based sentiment prediction system | Python, ML |
@@ -74,10 +78,27 @@
 ### 📂 Quick Project Links
 <div align="center">
 
-<a href="https://github.com/ADITYA990-IND/CodeAlpha_Music_Player_using_JavaScript" target="_blank"><img src="https://img.shields.io/badge/Music%20Player-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/ADITYA990-IND/CodeAlpha_BuildACalculator" target="_blank"><img src="https://img.shields.io/badge/Calculator-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/ADITYA990-IND/Sentiment_Analysis_on_Twitter_Data" target="_blank"><img src="https://img.shields.io/badge/Sentiment%20Analysis-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/ADITYA990-IND/Spam_Email_Classifier" target="_blank"><img src="https://img.shields.io/badge/Spam%20Classifier-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- Row 1: Top AI & Full-Stack Apps -->
+<a href="https://github.com/ADITYA990-IND" target="_blank"><img src="https://img.shields.io/badge/Guard%20IQ-00F0FF?style=for-the-badge&logo=shield&logoColor=black"/></a>
+<a href="https://github.com/ADITYA990-IND" target="_blank"><img src="https://img.shields.io/badge/Arogya%20Mitra%20AI-A333FF?style=for-the-badge&logo=stethoscopes&logoColor=white"/></a>
+<a href="https://github.com/ADITYA990-IND/AgriVision" target="_blank"><img src="https://img.shields.io/badge/AgriVision-39FF14?style=for-the-badge&logo=leaflet&logoColor=black"/></a>
+<a href="https://github.com/ADITYA990-IND" target="_blank"><img src="https://img.shields.io/badge/Quick%20Rescue-FF3131?style=for-the-badge&logo=ambulance&logoColor=white"/></a>
+
+<br/>
+
+<!-- Row 2: New Systems & Extensions -->
+<a href="https://github.com/ADITYA990-IND/CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS" target="_blank"><img src="https://img.shields.io/badge/ChronoTrack-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/ADITYA990-IND/Real-Time-document-collabrative-editor" target="_blank"><img src="https://img.shields.io/badge/SyncDoc-00D2FF?style=for-the-badge&logo=visual-studio-code&logoColor=black"/></a>
+<a href="https://github.com/ADITYA990-IND/CHAT-APPLICATION" target="_blank"><img src="https://img.shields.io/badge/Talkive-00FF66?style=for-the-badge&logo=socketdotio&logoColor=black"/></a>
+<a href="https://github.com/ADITYA990-IND/API-INTEGRATION" target="_blank"><img src="https://img.shields.io/badge/API%20Gateway%20Hub-FF007F?style=for-the-badge&logo=postman&logoColor=white"/></a>
+
+<br/>
+
+<!-- Row 3: Core Utilities & ML Models -->
+<a href="https://github.com/ADITYA990-IND/CodeAlpha_Music_Player_using_JavaScript" target="_blank"><img src="https://img.shields.io/badge/Music%20Player-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://github.com/ADITYA990-IND/CodeAlpha_BuildACalculator" target="_blank"><img src="https://img.shields.io/badge/Calculator-007ACC?style=for-the-badge&logo=calculator&logoColor=white"/></a>
+<a href="https://github.com/ADITYA990-IND/Sentiment_Analysis_on_Twitter_Data" target="_blank"><img src="https://img.shields.io/badge/Sentiment%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://github.com/ADITYA990-IND/Spam_Email_Classifier" target="_blank"><img src="https://img.shields.io/badge/Spam%20Classifier-3776AB?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
 
 </div>
 
