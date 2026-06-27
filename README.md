@@ -47,7 +47,7 @@
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,mysql,mongodb,firebase,docker,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,mongodb,firebase,docker,git,github,vscode,figma,pr,ps" />
 </div>
 
 ---
