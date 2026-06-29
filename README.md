@@ -184,3 +184,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ADITYA990-IND/ADITYA990-IND/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ADITYA990-IND/ADITYA990-IND/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+<!---LeetCode Topics End-->
