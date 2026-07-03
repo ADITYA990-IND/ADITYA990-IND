@@ -58,6 +58,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+🧞 **Portfolio Genie AI** | Local LLM Supervised Fine-Tuning (SFT) pipeline with hybrid deterministic guardrails and premium dashboard UI | Python, Transformers, TRL, Streamlit |
 | 🛡️ **Guard IQ** | AI-powered road safety & smart driving assistant with ADAS features | React, Gemini AI, Firebase |
 | 🩺 **Arogya Mitra AI** | Smart healthcare accessibility assistant powered by AI | Python, Streamlit, AI |
 | 🌾 **AgriVision** | Intelligent agriculture solution for modern farming insights | AI, Web App |
@@ -79,6 +80,7 @@
 <div align="center">
 
 <!-- Row 1: Top AI & Full-Stack Apps -->
+<a href="https://github.com/ADITYA990-IND/Portfolio-Genie-AI" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Genie%20AI-blueviolet?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
 <a href="https://github.com/ADITYA990-IND/Guard-IQ" target="_blank"><img src="https://img.shields.io/badge/Guard%20IQ-00F0FF?style=for-the-badge&logo=shield&logoColor=black"/></a>
 <a href="https://github.com/ADITYA990-IND/Arogya-Mitra-AI" target="_blank"><img src="https://img.shields.io/badge/Arogya%20Mitra%20AI-A333FF?style=for-the-badge&logo=stethoscopes&logoColor=white"/></a>
 <a href="https://github.com/ADITYA990-IND/AgriVision" target="_blank"><img src="https://img.shields.io/badge/AgriVision-39FF14?style=for-the-badge&logo=leaflet&logoColor=black"/></a>
