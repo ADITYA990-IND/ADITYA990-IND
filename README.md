@@ -59,6 +59,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 🧞 **Portfolio Genie AI** | Local LLM Supervised Fine-Tuning (SFT) pipeline with hybrid deterministic guardrails and premium dashboard UI | Python, Transformers, TRL, Streamlit |
+| ♻️ **EcoSort AI** | Autonomous waste sorting gateway & telemetry dashboard with live threshold alerts and cluster hardware diagnostics. | React (TS), EmailJS, Tailwind CSS |
 | 🛡️ **Guard IQ** | AI-powered road safety & smart driving assistant with ADAS features | React, Gemini AI, Firebase |
 | 🩺 **Arogya Mitra AI** | Smart healthcare accessibility assistant powered by AI | Python, Streamlit, AI |
 | 🌾 **AgriVision** | Intelligent agriculture solution for modern farming insights | AI, Web App |
@@ -89,6 +90,7 @@
 <br/>
 
 <!-- Row 2: New Systems & Extensions -->
+<a href="https://github.com/ADITYA990-IND/EcoSort-AI-Dashboard" target="_blank"><img src="https://img.shields.io/badge/EcoSort%20AI-D32F2F?style=for-the-badge&logo=analytics&logoColor=white"/></a>
 <a href="https://github.com/ADITYA990-IND/CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS" target="_blank"><img src="https://img.shields.io/badge/ChronoTrack-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://github.com/ADITYA990-IND/Real-Time-document-collabrative-editor" target="_blank"><img src="https://img.shields.io/badge/SyncDoc-00D2FF?style=for-the-badge&logo=visual-studio-code&logoColor=black"/></a>
 <a href="https://github.com/ADITYA990-IND/CHAT-APPLICATION" target="_blank"><img src="https://img.shields.io/badge/Talkive-00FF66?style=for-the-badge&logo=socketdotio&logoColor=black"/></a>
