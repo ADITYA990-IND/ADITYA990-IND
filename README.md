@@ -119,9 +119,9 @@
 <div align="center">
 
 ### 🔥 DSA Progress & Metrics
-* **✅ Solved:** 91 Problems *(Easy: 32 | Medium: 48 | Hard: 18)*
-* **⚡ Max Streak:** 77 Days Continuous Learning
-* **📅 Total Active Days:** 88 Days
+* **✅ Solved:** 102 Problems *(Easy: 33 | Medium: 51 | Hard: 18)*
+* **⚡ Max Streak:** 78 Days Continuous Learning
+* **📅 Total Active Days:** 92 Days
 * **📈 Focus:** Daily DSA & Competitive Programming Practice
 
 ### 🏅 Badges
