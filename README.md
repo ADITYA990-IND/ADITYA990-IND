@@ -119,16 +119,16 @@
 <div align="center">
 
 ### 🔥 DSA Progress & Metrics
-* **✅ Solved:** 102 Problems *(Easy: 33 | Medium: 51 | Hard: 18)*
+* **✅ Solved:** 102 Problems *(Easy: 35 | Medium: 55 | Hard: 21)*
 * **⚡ Max Streak:** 78 Days Continuous Learning
-* **📅 Total Active Days:** 92 Days
+* **📅 Total Active Days:** 101 Days
 * **📈 Focus:** Daily DSA & Competitive Programming Practice
 
 ### 🏅 Badges
 *  50 Days Badge 2026
 *  May LeetCoding Challenge Badge 2026
 *  June LeetCoding Challenge Badge 2026
-
+*  100 Days Badge 2026
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
