@@ -62,7 +62,6 @@
 | ♻️ **EcoSort AI** | Autonomous waste sorting gateway & telemetry dashboard with live threshold alerts and cluster hardware diagnostics. | React (TS), EmailJS, Tailwind CSS |
 | 🛡️ **Guard IQ** | AI-powered road safety & smart driving assistant with ADAS features | React, Gemini AI, Firebase |
 | 🩺 **Arogya Mitra AI** | Smart healthcare accessibility assistant powered by AI | Python, Streamlit, AI |
-| 🌾 **AgriVision** | Intelligent agriculture solution for modern farming insights | AI, Web App |
 | 🚑 **Quick Rescue** | Emergency response & rescue management platform | Full Stack |
 | ⏱️ **ChronoTrack** | Chrome extension for real-time time tracking and detailed productivity analytics | JavaScript, HTML, CSS, Chrome API |
 | 📄 **SyncDoc** | Real-time collaborative document editor supporting seamless multi-user editing | React, Node.js, WebSockets |
@@ -84,7 +83,6 @@
 <a href="https://github.com/ADITYA990-IND/Portfolio-Genie-AI" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Genie%20AI-blueviolet?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
 <a href="https://github.com/ADITYA990-IND/Guard-IQ" target="_blank"><img src="https://img.shields.io/badge/Guard%20IQ-00F0FF?style=for-the-badge&logo=shield&logoColor=black"/></a>
 <a href="https://github.com/ADITYA990-IND/Arogya-Mitra-AI" target="_blank"><img src="https://img.shields.io/badge/Arogya%20Mitra%20AI-A333FF?style=for-the-badge&logo=stethoscopes&logoColor=white"/></a>
-<a href="https://github.com/ADITYA990-IND/AgriVision" target="_blank"><img src="https://img.shields.io/badge/AgriVision-39FF14?style=for-the-badge&logo=leaflet&logoColor=black"/></a>
 <a href="https://github.com/ADITYA990-IND/QUICK--RESCUE" target="_blank"><img src="https://img.shields.io/badge/Quick%20Rescue-FF3131?style=for-the-badge&logo=ambulance&logoColor=white"/></a>
 
 <br/>
