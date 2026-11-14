@@ -71,7 +71,7 @@
 | 🧮 **Build A Calculator** | Responsive calculator application with clean design | HTML, CSS, JavaScript |
 | 📊 **Twitter Sentiment Analysis** | Machine Learning-based sentiment prediction system | Python, ML |
 | 📧 **Spam Email Classifier** | AI/ML model to classify spam & legitimate emails | Python, NLP |
-
+🍼 **Poshan Mitra AI** | AI-Powered Child Nutrition & Early At-Risk Malnutrition (SAM/MAM) Detection System | React, TypeScript, Tailwind CSS, Firebase, Google Gemini API
 </div>
 
 <br>
@@ -101,7 +101,7 @@
 <a href="https://github.com/ADITYA990-IND/CodeAlpha_BuildACalculator" target="_blank"><img src="https://img.shields.io/badge/Calculator-007ACC?style=for-the-badge&logo=calculator&logoColor=white"/></a>
 <a href="https://github.com/ADITYA990-IND/Sentiment_Analysis_on_Twitter_Data" target="_blank"><img src="https://img.shields.io/badge/Sentiment%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="https://github.com/ADITYA990-IND/Spam_Email_Classifier" target="_blank"><img src="https://img.shields.io/badge/Spam%20Classifier-3776AB?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-
+<a href="https://github.com/ADITYA990-IND/poshan-mitra-ai" target="_blank"><img src="https://img.shields.io/badge/Poshan%20Mitra%20AI-00F5FF?style=for-the-badge&logo=google&logoColor=black"/></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
